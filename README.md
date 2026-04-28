@@ -1,0 +1,2 @@
+# Customer-Churn-Analysis-and-Retention-Strategy-using-SQL-and-Predictive-Analytics
+•Gathered business requirements and analyzed customer data using SQL and Excel to identify churn drivers and define KPIs such as churn rate and customer lifetime value •Performed root cause, SWOT, and gap analysis to identify high-risk segments and key business challenges •Developed data-driven retention strategies and delivered insight 
