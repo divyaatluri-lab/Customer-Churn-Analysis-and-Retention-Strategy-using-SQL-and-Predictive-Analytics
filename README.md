@@ -1,9 +1,10 @@
 # Customer-Churn-Analysis-and-Retention-Strategy-using-SQL-and-Predictive-Analytics
 Project Overview
 This project focuses on analyzing customer churn behavior using SQL and data visualization techniques. The objective is to identify key churn drivers, high-risk customer segments, and provide actionable retention strategies to improve business performance.
-
+# Problem Statement 
+“The business is experiencing high customer churn leading to revenue loss. The objective is to identify churn drivers and recommend strategies to improve retention.”
 # Business Objectives:
-Identify factors contributing to customer churn
+Identify factors contributing to customer churn.
 Analyze customer behavior and segmentation
 Calculate key KPIs such as churn rate, retention rate, and revenue loss
 Develop data-driven retention strategies
@@ -39,3 +40,15 @@ Weak customer onboarding process
 # Dashboard
 
 The interactive dashboard provides insights into churn patterns, customer segmentation, and revenue impact.
+<img width="1308" height="750" alt="CUSTOMER CHURN" src="https://github.com/user-attachments/assets/428372cb-0c20-4554-9d5e-bdc566a9e93d" />
+
+# Retention Strategies
+Offer discounts for long-term contracts
+Improve onboarding experience
+Provide loyalty rewards
+Target high-risk customers with personalized offers
+
+# Business Impact
+Potential to reduce churn by 10–15%
+Improve customer retention
+Reduce revenue loss
